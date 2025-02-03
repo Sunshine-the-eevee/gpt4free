@@ -20,4 +20,4 @@ nodriver
 python-multipart
 pypdf2
 docx
-g4f
+g4f[all]
